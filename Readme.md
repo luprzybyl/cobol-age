@@ -6,6 +6,8 @@ Welcome to the COBOL-Age project!
 
 This project was created to celebrate my birthday and to learn about COBOL, one of the oldest programming languages still in use today, which had its first specification published on December 17, 1959. 
 
+Combining something old with something new, I have wrapped it with a tiny golang server to make it a microservice.
+
 I hope you enjoy exploring the COBOL-Age project as much as I enjoyed creating it!
 
 
